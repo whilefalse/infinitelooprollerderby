@@ -7,8 +7,6 @@ excerpt:
 ---
 
 > Skate fast, turn left.
->
-> <cite>Dark Matter</cite>
 
 When I started jamming, the extent of my knowledge was that I had to get on the other side of the opposing blockers. The mechanics of that were completely mysterious - I'd just dance around a bit and hope for the best.
 
