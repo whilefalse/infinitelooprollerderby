@@ -66,8 +66,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-GB"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Infinite Loop Roller Derby"
-title_separator          : "-"
-subtitle                 : "Roller Derby Shiz" # site tagline that appears below site title in masthead
+title_separator          : "∞"
+subtitle                 : "A blog about roller derby" # site tagline that appears below site title in masthead
 name                     : "Infinite Loop"
 description: >-
   A blog about roller derby, including coaching, tips, and personal experiences.
