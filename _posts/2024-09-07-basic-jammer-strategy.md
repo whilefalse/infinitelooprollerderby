@@ -3,7 +3,8 @@ layout: single
 title:  "Basic Jammer Strategy"
 date:   2024-09-07 11:04:48 +0100
 tags: jamming basics
-excerpt:
+excerpt: >-
+    When I started jamming, the extent of my knowledge was that I had to get on the other side of the opposing blockers. The mechanics of that were completely mysterious - I'd just dance around a bit and hope for the best.
 ---
 
 > Skate fast, turn left.
