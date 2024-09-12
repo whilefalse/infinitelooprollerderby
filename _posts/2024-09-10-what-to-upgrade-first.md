@@ -83,7 +83,7 @@ Hopefully there's someone in your league who can help you fit new plates to your
 
 I haven't upgraded my boots yet. I still use my beginner GT-50 boots, although at this point I'm not sure if they're more tape than boot. This will be my next upgrade, but I'm still researching the best options.
 
-I can't really recommend any particular boots, but I'll probably go for a [Bont](https://www.doublethreatskates.co.uk/collections/roller-derby-boots/products/in-stock-bonts) or [Antik](https://www.doublethreatskates.co.uk/collections/roller-derby-boots/products/antik-jet-carbon-2), which seem so be the most popular (and most readily available).
+I can't really recommend any particular boots, but I'll probably go for a [Bont](https://www.doublethreatskates.co.uk/collections/roller-derby-boots/products/in-stock-bonts) or [Antik](https://www.doublethreatskates.co.uk/collections/roller-derby-boots/products/antik-jet-carbon-2), which seem to be the most popular (and most readily available).
 
 ## Other stuff
 
